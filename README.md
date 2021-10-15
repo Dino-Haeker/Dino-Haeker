@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dino-Haeker
-- 👀 I’m interested in Security and organized server control
+- 👀 I’m interested in tecnic
 - 📫 You can reach me under dino-haeker@protonmail.com
 
 <!---
