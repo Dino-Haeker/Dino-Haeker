@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dino-Haeker
 - 👀 I’m interested in tecnic
-- 📫 You can reach me under dino-haeker@protonmail.com
+- 📫 You can reach me under dino-system.vercel.app/de/#contact
 
 <!---
 Dino-Haeker/Dino-Haeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
